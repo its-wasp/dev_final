@@ -1,0 +1,15 @@
+.flexing{
+    display : flex;
+    justify-content: center;
+    
+}
+
+
+.bordering{
+
+    height: 250px;
+    width: 75vh;
+    border : 1.5px rgba(128, 128, 128, 0.779) dashed;
+    border-radius: 15px;
+}
+
